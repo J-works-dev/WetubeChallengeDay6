@@ -17,11 +17,11 @@ Put the templates on the 'views' folder.
 
 All templates should extend from a layout.
 
-The layout should contain the <head> portion of the page and a <footer> partial.
+The layout should contain the 'head' portion of the page and a 'footer' partial.
   
-On the <body> each page has to have a <h1> with the title of the page.
+On the 'body' each page has to have a 'h1' with the title of the page.
   
-On the <head> each page has to have a <title> with the title of the page and the title of the website**.
+On the 'head' each page has to have a 'title' with the title of the page and the title of the website**.
   
 The title of the page and the website should not be written on the template.
 
